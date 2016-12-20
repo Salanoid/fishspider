@@ -5,5 +5,4 @@
         }
     }
     
-    $controller = new HomeController;
-    $controller->index();
+

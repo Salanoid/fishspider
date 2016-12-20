@@ -35,7 +35,7 @@
 
         <div class="container">
             <?php
-                require('./controllers/HomeController.php');   
+                require('./controllers/Controller.php');   
             ?>
 
         </div>
